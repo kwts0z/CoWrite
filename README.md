@@ -1,1 +1,8 @@
-# CoWrite
+- Python
+- Flask
+- Poetry
+- MySQL
+- SQLAlchemy
+- Jinja2
+- Pytest
+- Flask-Security
